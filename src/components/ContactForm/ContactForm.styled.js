@@ -29,4 +29,5 @@ export const Button = styled.button`
   padding: 8px;
   border-radius: 6px;
   border-color: lightgray;
+  background-color: blue;
 `;
